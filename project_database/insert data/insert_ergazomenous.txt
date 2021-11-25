@@ -1,0 +1,138 @@
+insert into Ergazomenos values(33334444,'John Hallward',35,'21 jump ST.','S',6977778889,'john@gmail.com','M',50000);       2
+insert into Ergazomenos values(33334455,'Jonas Rosewarne',30,'22 Wayridge Plaza','M',6977778899,'jonas@gmail.com','M',75000);            3
+insert into Ergazomenos values(33334466,'Kevin Quail',24,'25 Ridgeway Park','S',6977778834,'kevin@gmail.com','M',60000);
+insert into Ergazomenos values(33334477,'Helen Angless',22,'26 Melvin Crossing','S',6977778856,'helen@gmail.com','F',55000);          2
+insert into Ergazomenos values(33334488,'Clarke Wadeson',45,'27 Badeau Street','D',6977778367,'cl@gmail.com','F',80000);
+insert into Ergazomenos values(33334499,'Marcus Toll',28,'22 jump ST.','M',6977778368,'marc@gmail.com','M',40000);                    3
+insert into Ergazomenos values(44334466,'Nick Steel',21,'246 Badeau Street','S',6977778934,'nik@gmail.com','M',62000);
+insert into Ergazomenos values(55334477,'Octavia Aldwich',22,'29 Ridgeway Park','S',6977779856,'oct@hotmail.com','F',48000);          2
+
+
+insert into Ergazomenos values(66334444,'Charlie Hallibone',37,'21 Hollywood ST.','S',6933778889,'charlie@gmail.com','M',52000);         3
+insert into Ergazomenos values(77334455,'Belamy Berntsson',56,'22 Melvin Crossing','M',6944778899,'bel@gmail.com','M',81000);
+insert into Ergazomenos values(88334466,'George Pykerman',21,'25 Delaware Alley','S',6955778834,'geo18@hotmail.com','M',63000);
+insert into Ergazomenos values(99334477,'Emily Kaye',27,'26 Summerview Street','S',6966778856,'emily@gmail.com','F',42000);              3
+insert into Ergazomenos values(33444488,'Mary Lugard',54,'27 Hollywood ST.','D',6978778367,'mary3@hotmail.com','F',71000);
+insert into Ergazomenos values(33554499,'Andrew Toll',24,'22 Porter Terrace','M',6988778368,'and15@gmail.com','M',35000);                3
+insert into Ergazomenos values(44664466,'Jim Thunders',29,'246 Delaware Alley','S',6999778934,'jimmy@hotmail.com','M',57000);              2
+insert into Ergazomenos values(55774477,'Nancy Dagnall',19,'29 Summerview Street','S',6979779856,'nanc18@gmail.com','F',42000);           3
+
+16
+
+insert into Ergazomenos values(33334544,'Maude Dello',32,'21 Waywood Pass','S',6974775889,'mau@gmail.com','M',45000);                 3
+insert into Ergazomenos values(33334655,'Danice Mount',28,'22 Eastlawn Road','M',6976908899,'danm@gmail.com','M',65000);
+insert into Ergazomenos values(33334766,'Lazarus Buckler',21,'25 Del Mar Avenue','S',6979978834,'mol@hotmail.com','M',64000);             3
+insert into Ergazomenos values(33334877,'Reiko Breyt',22,'35 Waywood Pass','S',6977799856,'reik@gmail.com','F',53000);
+insert into Ergazomenos values(33335488,'Molli Stannislawski',52,'27 Monica Hill','D',6997778367,'laz34@gmail.com','F',76000);
+insert into Ergazomenos values(33336499,'Blinny Robb',45,'22 Eastlawn Road','M',6999978368,'blinn3@gmail.com','M',82000);               2
+insert into Ergazomenos values(44337466,'Berty Digwood',21,'247 Hudson Way','S',6900078934,'ber45@hotmail.com','M',52000);             3
+insert into Ergazomenos values(55338477,'Jermaine Rumbelow',24,'29 Waywood Pass','S',6911179856,'jermy@gmail.com','F',45000);
+
+
+insert into Ergazomenos values(66335544,'Teodoro Duke',42,'21 Hallows Center','S',6932378889,'teo23@gmail.com','M',49000);
+insert into Ergazomenos values(77336655,'Harris Corker',51,'22 Everett Terrace','M',6942345899,'hary2@gmail.com','M',66000);
+insert into Ergazomenos values(88337766,'Allan Keats',25,'25 Hallows Center','S',6955690834,'alan18@gmail.com','M',61000);                3
+insert into Ergazomenos values(99338877,'Roseline Brownlee',23,'26 Sullivan Place','S',6923478856,'rosie7@gmail.com','F',57000);          3
+insert into Ergazomenos values(33449988,'Clarence Landman',47,'27 Hudson Way','D',6956778367,'clar3@gmail.com','F',57000);
+insert into Ergazomenos values(33550099,'Dante Obee',22,'22 Waywood Pass','M',6988891368,'dante15@gmail.com','M',57000);
+insert into Ergazomenos values(44660166,'Cinda Chupin',31,'246 Monica Hill','S',6999798734,'cin99@gmail.com','M',57000);             2
+insert into Ergazomenos values(55770277,'Ester Jarlmann',34,'29 Eastlawn Road','S',6970079856,'est3r@hotmail.com','F',43000);
+
+32
+
+
+insert into Ergazomenos values(12233445,'Bayard Rumney',23,'17 Menomonie Avenue','S',6971243889,'bay23@gmail.com','M',55000);
+insert into Ergazomenos values(22334566,'Benny Camillo',25,'22 Stang Road','M',6974231899,'benn@gmail.com','M',69000);                  3
+insert into Ergazomenos values(22377566,'Justino Checkley',56,'25 Atwood Plaza','M',6975432834,'jastin@gmail.com','M',68000);            2
+insert into Ergazomenos values(12233400,'Alida Summerhayes',44,'35 Victoria Hill','M',6972345856,'allida@gmail.com','F',49000);
+insert into Ergazomenos values(20034566,'Teresa Carville',55,'27 Monica Hill','D',6995243367,'tere34@gmail.com','F',72000);
+insert into Ergazomenos values(33000009,'Gage Sparway',33,'22 Dixon Center','S',6994452368,'cagee2@gmail.com','M',41000);
+insert into Ergazomenos values(12233499,'Kacey Chaffe',22,'247 Dixon Center','S',6900524434,'kacie@gmail.com','M',34000);                   3
+insert into Ergazomenos values(24554566,'Bertie Huguet',34,'29 Straubel Terrace','S',6911223556,'bert4@hotmail.com','F',56000);
+
+
+insert into Ergazomenos values(68778544,'Grantley Scay',41,'21 Straubel Terrace','D',6932366519,'grant@gmail.com','M',49000);
+insert into Ergazomenos values(77334884,'Herold Tunnock',52,'22 Victoria Hill','D',6948876899,'herol75@hotmail.com','M',66000);             2
+insert into Ergazomenos values(82552766,'Jason Keats',26,'48 Atwood Plaza','S',6957786834,'all4@gmail.com','M',61000);                   3
+insert into Ergazomenos values(12233555,'Ranique Broadwell',45,'226 Stang Road','M',6923668756,'ranq@hotmail.com','F',57000);
+insert into Ergazomenos values(33047988,'Kylynn Kinsella',62,'27 Stang Road','D',6956767897,'kylyn@gmail.com','F',57000);
+insert into Ergazomenos values(34080099,'Peter Toll',53,'22 jump ST.','M',6988899048,'pete89@gmail.com','M',57000);
+insert into Ergazomenos values(69960166,'Beryl McHaffy',35,'173 Menomonie Avenue','S',6992468734,'berill@gmail.com','M',57000);
+insert into Ergazomenos values(12233455,'Alison Lavigne',19,'34 Menomonie Avenue','S',6971357956,'alisonlav@hotmail.com','F',43000);         3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+insert into Ergazomenos values(33334444,'John Hallward',35,'21 jump ST.','S',6977778889,'john@gmail.com','M',50000);       
+insert into Ergazomenos values(33334455,'Jonas Rosewarne',30,'22 Wayridge Plaza','M',6977778899,'jonas@gmail.com','M',75000);            
+insert into Ergazomenos values(33334466,'Kevin Quail',24,'25 Ridgeway Park','S',6977778834,'kevin@gmail.com','M',60000);
+insert into Ergazomenos values(33334477,'Helen Angless',22,'26 Melvin Crossing','S',6977778856,'helen@gmail.com','F',55000);          
+insert into Ergazomenos values(33334488,'Clarke Wadeson',45,'27 Badeau Street','D',6977778367,'cl@gmail.com','F',80000);
+insert into Ergazomenos values(33334499,'Marcus Toll',28,'22 jump ST.','M',6977778368,'marc@gmail.com','M',40000);                    
+insert into Ergazomenos values(44334466,'Nick Steel',21,'246 Badeau Street','S',6977778934,'nik@gmail.com','M',62000);
+insert into Ergazomenos values(55334477,'Octavia Aldwich',22,'29 Ridgeway Park','S',6977779856,'oct@hotmail.com','F',48000);          
+
+
+insert into Ergazomenos values(66334444,'Charlie Hallibone',37,'21 Hollywood ST.','S',6933778889,'charlie@gmail.com','M',52000);         
+insert into Ergazomenos values(77334455,'Belamy Berntsson',56,'22 Melvin Crossing','M',6944778899,'bel@gmail.com','M',81000);
+insert into Ergazomenos values(88334466,'George Pykerman',21,'25 Delaware Alley','S',6955778834,'geo18@hotmail.com','M',63000);
+insert into Ergazomenos values(99334477,'Emily Kaye',27,'26 Summerview Street','S',6966778856,'emily@gmail.com','F',42000);              
+insert into Ergazomenos values(33444488,'Mary Lugard',54,'27 Hollywood ST.','D',6978778367,'mary3@hotmail.com','F',71000);
+insert into Ergazomenos values(33554499,'Andrew Toll',24,'22 Porter Terrace','M',6988778368,'and15@gmail.com','M',35000);                
+insert into Ergazomenos values(44664466,'Jim Thunders',29,'246 Delaware Alley','S',6999778934,'jimmy@hotmail.com','M',57000);              
+insert into Ergazomenos values(55774477,'Nancy Dagnall',19,'29 Summerview Street','S',6979779856,'nanc18@gmail.com','F',42000);           
+
+
+insert into Ergazomenos values(33334544,'Maude Dello',32,'21 Waywood Pass','S',6974775889,'mau@gmail.com','M',45000);                 
+insert into Ergazomenos values(33334655,'Danice Mount',28,'22 Eastlawn Road','M',6976908899,'danm@gmail.com','M',65000);
+insert into Ergazomenos values(33334766,'Lazarus Buckler',21,'25 Del Mar Avenue','S',6979978834,'mol@hotmail.com','M',64000);             
+insert into Ergazomenos values(33334877,'Reiko Breyt',22,'35 Waywood Pass','S',6977799856,'reik@gmail.com','F',53000);
+insert into Ergazomenos values(33335488,'Molli Stannislawski',52,'27 Monica Hill','D',6997778367,'laz34@gmail.com','F',76000);
+insert into Ergazomenos values(33336499,'Blinny Robb',45,'22 Eastlawn Road','M',6999978368,'blinn3@gmail.com','M',82000);               
+insert into Ergazomenos values(44337466,'Berty Digwood',21,'247 Hudson Way','S',6900078934,'ber45@hotmail.com','M',52000);             
+insert into Ergazomenos values(55338477,'Jermaine Rumbelow',24,'29 Waywood Pass','S',6911179856,'jermy@gmail.com','F',45000);
+
+
+insert into Ergazomenos values(66335544,'Teodoro Duke',42,'21 Hallows Center','S',6932378889,'teo23@gmail.com','M',49000);
+insert into Ergazomenos values(77336655,'Harris Corker',51,'22 Everett Terrace','M',6942345899,'hary2@gmail.com','M',66000);
+insert into Ergazomenos values(88337766,'Allan Keats',25,'25 Hallows Center','S',6955690834,'alan18@gmail.com','M',61000);                
+insert into Ergazomenos values(99338877,'Roseline Brownlee',23,'26 Sullivan Place','S',6923478856,'rosie7@gmail.com','F',57000);          
+insert into Ergazomenos values(33449988,'Clarence Landman',47,'27 Hudson Way','D',6956778367,'clar3@gmail.com','F',57000);
+insert into Ergazomenos values(33550099,'Dante Obee',22,'22 Waywood Pass','M',6988891368,'dante15@gmail.com','M',57000);
+insert into Ergazomenos values(44660166,'Cinda Chupin',31,'246 Monica Hill','S',6999798734,'cin99@gmail.com','M',57000);             
+insert into Ergazomenos values(55770277,'Ester Jarlmann',34,'29 Eastlawn Road','S',6970079856,'est3r@hotmail.com','F',43000);
+
+
+
+
+insert into Ergazomenos values(12233445,'Bayard Rumney',23,'17 Menomonie Avenue','S',6971243889,'bay23@gmail.com','M',55000);
+insert into Ergazomenos values(22334566,'Benny Camillo',25,'22 Stang Road','M',6974231899,'benn@gmail.com','M',69000);                  
+insert into Ergazomenos values(22377566,'Justino Checkley',56,'25 Atwood Plaza','M',6975432834,'jastin@gmail.com','M',68000);            
+insert into Ergazomenos values(12233400,'Alida Summerhayes',44,'35 Victoria Hill','M',6972345856,'allida@gmail.com','F',49000);
+insert into Ergazomenos values(20034566,'Teresa Carville',55,'27 Monica Hill','D',6995243367,'tere34@gmail.com','F',72000);
+insert into Ergazomenos values(33000009,'Gage Sparway',33,'22 Dixon Center','S',6994452368,'cagee2@gmail.com','M',41000);
+insert into Ergazomenos values(12233499,'Kacey Chaffe',22,'247 Dixon Center','S',6900524434,'kacie@gmail.com','M',34000);                   
+insert into Ergazomenos values(24554566,'Bertie Huguet',34,'29 Straubel Terrace','S',6911223556,'bert4@hotmail.com','F',56000);
+
+
+insert into Ergazomenos values(68778544,'Grantley Scay',41,'21 Straubel Terrace','D',6932366519,'grant@gmail.com','M',49000);
+insert into Ergazomenos values(77334884,'Herold Tunnock',52,'22 Victoria Hill','D',6948876899,'herol75@hotmail.com','M',66000);             
+insert into Ergazomenos values(82552766,'Jason Keats',26,'48 Atwood Plaza','S',6957786834,'all4@gmail.com','M',61000);                   
+insert into Ergazomenos values(12233555,'Ranique Broadwell',45,'226 Stang Road','M',6923668756,'ranq@hotmail.com','F',57000);
+insert into Ergazomenos values(33047988,'Kylynn Kinsella',62,'27 Stang Road','D',6956767897,'kylyn@gmail.com','F',57000);
+insert into Ergazomenos values(34080099,'Peter Toll',53,'22 jump ST.','M',6988899048,'pete89@gmail.com','M',57000);
+insert into Ergazomenos values(69960166,'Beryl McHaffy',35,'173 Menomonie Avenue','S',6992468734,'berill@gmail.com','M',57000);
+insert into Ergazomenos values(12233455,'Alison Lavigne',19,'34 Menomonie Avenue','S',6971357956,'alisonlav@hotmail.com','F',43000);         
+
+

@@ -1,0 +1,442 @@
+insert into ergazetai values(33334455,1);
+insert into ergazetai values(33334444,1);
+insert into ergazetai values(77334455,1);
+insert into ergazetai values(55338477,1);
+insert into ergazetai values(24554566,1);
+insert into ergazetai values(77334884,1);
+
+insert into ergazetai values(33334455,5);
+insert into ergazetai values(24554566,5);
+insert into ergazetai values(77334884,5);
+
+
+insert into ergazetai values(33334499,2);
+insert into ergazetai values(33554499,2);
+insert into ergazetai values(33334477,2);
+insert into ergazetai values(33334488,2);
+insert into ergazetai values(33334877,2);
+insert into ergazetai values(33449988,2);
+insert into ergazetai values(20034566,2);
+
+
+insert into ergazetai values(33334477,9);
+insert into ergazetai values(33554499,9);
+insert into ergazetai values(33334499,9);
+insert into ergazetai values(33449988,9);
+insert into ergazetai values(20034566,9);
+
+
+insert into ergazetai values(33334499,12);
+insert into ergazetai values(33554499,12);
+
+
+insert into ergazetai values(99334477,3);
+insert into ergazetai values(55334477,3);
+insert into ergazetai values(44334466,3);
+insert into ergazetai values(33335488,3);
+insert into ergazetai values(77336655,3);
+
+
+insert into ergazetai values(99334477,6);
+insert into ergazetai values(44334466,6);
+insert into ergazetai values(12233445,6);
+
+insert into ergazetai values(99334477,19);
+insert into ergazetai values(33000009,19);
+
+
+
+insert into ergazetai values(66334444,4);
+insert into ergazetai values(33336499,4);
+insert into ergazetai values(33334466,4);
+insert into ergazetai values(33334655,4);
+insert into ergazetai values(55770277,4);
+insert into ergazetai values(68778544,4);
+
+
+insert into ergazetai values(66334444,8);
+insert into ergazetai values(68778544,8);
+insert into ergazetai values(55770277,8);
+
+
+insert into ergazetai values(55774477,7);
+insert into ergazetai values(44660166,7);
+insert into ergazetai values(44334466,7);
+insert into ergazetai values(33335488,7);
+insert into ergazetai values(77336655,7);
+insert into ergazetai values(68778544,7);
+
+
+insert into ergazetai values(55774477,13);
+insert into ergazetai values(68778544,13);
+insert into ergazetai values(33047988,13);
+insert into ergazetai values(77336655,13);
+
+insert into ergazetai values(55774477,20);
+
+insert into ergazetai values(66334444,10);
+insert into ergazetai values(77334884,10);
+insert into ergazetai values(33334488,10);
+insert into ergazetai values(33334877,10);
+insert into ergazetai values(12233400,10);
+insert into ergazetai values(68778544,10);
+
+
+insert into ergazetai values(66334444,14);
+insert into ergazetai values(77334884,14);
+insert into ergazetai values(33334488,14);
+insert into ergazetai values(12233400,14);
+insert into ergazetai values(68778544,14);
+
+insert into ergazetai values(66334444,16);
+insert into ergazetai values(77334884,16);
+
+
+insert into ergazetai values(99338877,11);
+insert into ergazetai values(22377566,11);
+insert into ergazetai values(88334466,11);
+insert into ergazetai values(66335544,11);
+insert into ergazetai values(33449988,11);
+insert into ergazetai values(24554566,11);
+
+
+insert into ergazetai values(99338877,15);
+insert into ergazetai values(22377566,15);
+insert into ergazetai values(88334466,15);
+
+insert into ergazetai values(99338877,17);
+insert into ergazetai values(22377566,17);
+
+
+insert into ergazetai values(33334766,18);
+insert into ergazetai values(44660166,18);
+insert into ergazetai values(24554566,18);
+insert into ergazetai values(34080099,18);
+
+
+insert into ergazetai values(12233499,21);
+insert into ergazetai values(33334477,21);
+insert into ergazetai values(44334466,21);
+insert into ergazetai values(33335488,21);
+insert into ergazetai values(33000009,21);
+insert into ergazetai values(69960166,21);
+
+insert into ergazetai values(12233499,27);
+insert into ergazetai values(33000009,27);
+insert into ergazetai values(69960166,27);
+
+insert into ergazetai values(12233499,31);
+insert into ergazetai values(33000009,31);
+insert into ergazetai values(69960166,31);
+
+
+
+insert into ergazetai values(82552766,22);
+insert into ergazetai values(77334884,22);
+insert into ergazetai values(88334466,22);
+insert into ergazetai values(33334877,22);
+insert into ergazetai values(20034566,22);
+insert into ergazetai values(68778544,22);
+
+insert into ergazetai values(82552766,25);
+insert into ergazetai values(77334884,25);
+insert into ergazetai values(88334466,25);
+
+insert into ergazetai values(82552766,29);
+insert into ergazetai values(77334884,29);
+insert into ergazetai values(20034566,29);
+insert into ergazetai values(68778544,29);
+
+insert into ergazetai values(88337766,23);
+insert into ergazetai values(44660166,23);
+insert into ergazetai values(33334488,23);
+insert into ergazetai values(33334655,23);
+insert into ergazetai values(55770277,23);
+
+
+insert into ergazetai values(88337766,26);
+insert into ergazetai values(44660166,26);
+insert into ergazetai values(55770277,26);
+
+insert into ergazetai values(88337766,28);
+insert into ergazetai values(44660166,28);
+
+insert into ergazetai values(44337466,24);
+insert into ergazetai values(33334444,24);
+insert into ergazetai values(33334466,24);
+insert into ergazetai values(33334655,24);
+insert into ergazetai values(33449988,24);
+insert into ergazetai values(34080099,24);
+
+
+insert into ergazetai values(44337466,28);
+insert into ergazetai values(33449988,28);
+insert into ergazetai values(34080099,28);
+
+insert into ergazetai values(44337466,32);
+
+
+insert into ergazetai values(99338877,30);
+insert into ergazetai values(33336499,30);
+insert into ergazetai values(88334466,30);
+insert into ergazetai values(66335544,30);
+insert into ergazetai values(24554566,30);
+insert into ergazetai values(34080099,30);
+
+
+insert into ergazetai values(99338877,34);
+insert into ergazetai values(33336499,34);
+insert into ergazetai values(24554566,34);
+insert into ergazetai values(34080099,34);
+
+insert into ergazetai values(99338877,40);
+insert into ergazetai values(33336499,40);
+insert into ergazetai values(24554566,40);
+insert into ergazetai values(34080099,40);
+
+insert into ergazetai values(99334477,33);
+insert into ergazetai values(22377566,33);
+insert into ergazetai values(44334466,33);
+insert into ergazetai values(33334877,33);
+insert into ergazetai values(33550099,33);
+insert into ergazetai values(33047988,33);
+
+
+insert into ergazetai values(99334477,35);
+insert into ergazetai values(33550099,35);
+insert into ergazetai values(33047988,35);
+
+insert into ergazetai values(99334477,36);
+insert into ergazetai values(22377566,36);
+
+
+insert into ergazetai values(44337466,37);
+insert into ergazetai values(33334477,37);
+insert into ergazetai values(33334488,37);
+insert into ergazetai values(55338477,37);
+insert into ergazetai values(33449988,37);
+insert into ergazetai values(68778544,37);
+
+
+insert into ergazetai values(44337466,39);
+insert into ergazetai values(33449988,39);
+insert into ergazetai values(68778544,39);
+
+
+
+
+
+
+insert into ergazetai values(12233455,41);
+insert into ergazetai values(44664466,41);
+insert into ergazetai values(77334455,41);
+insert into ergazetai values(55338477,41);
+insert into ergazetai values(12233555,41);
+insert into ergazetai values(77334884,41);
+
+insert into ergazetai values(33334455,46);
+insert into ergazetai values(12233555,46);
+insert into ergazetai values(77334884,46);
+
+insert into ergazetai values(33334455,56);
+insert into ergazetai values(44664466,56);
+
+
+insert into ergazetai values(22334566,42);
+insert into ergazetai values(44664466,42);
+insert into ergazetai values(33334488,42);
+insert into ergazetai values(33334877,42);
+insert into ergazetai values(33449988,42);
+insert into ergazetai values(20034566,42);
+
+
+insert into ergazetai values(22334566,44);
+insert into ergazetai values(44664466,44);
+insert into ergazetai values(33449988,44);
+insert into ergazetai values(20034566,44);
+
+
+insert into ergazetai values(22334566,51);
+insert into ergazetai values(44664466,51);
+
+insert into ergazetai values(22334566,60);
+
+
+insert into ergazetai values(33334544,43);
+insert into ergazetai values(22377566,43);
+insert into ergazetai values(44334466,43);
+insert into ergazetai values(33335488,43);
+insert into ergazetai values(77336655,43);
+
+
+insert into ergazetai values(33334544,49);
+insert into ergazetai values(44334466,49);
+insert into ergazetai values(12233445,49);
+
+
+
+
+insert into ergazetai values(66334444,45);
+insert into ergazetai values(33336499,45);
+insert into ergazetai values(33334466,45);
+insert into ergazetai values(33334655,45);
+insert into ergazetai values(55770277,45);
+insert into ergazetai values(68778544,45);
+
+
+insert into ergazetai values(66334444,50);
+insert into ergazetai values(68778544,50);
+insert into ergazetai values(55770277,50);
+
+insert into ergazetai values(66334444,55);
+insert into ergazetai values(68778544,55);
+insert into ergazetai values(55770277,55);
+
+insert into ergazetai values(66334444,59);
+
+insert into ergazetai values(55774477,47);
+insert into ergazetai values(44660166,47);
+insert into ergazetai values(44334466,47);
+insert into ergazetai values(33335488,47);
+insert into ergazetai values(77336655,47);
+insert into ergazetai values(68778544,47);
+
+
+insert into ergazetai values(55774477,48);
+insert into ergazetai values(68778544,48);
+insert into ergazetai values(33047988,48);
+insert into ergazetai values(77336655,48);
+
+insert into ergazetai values(55774477,52);
+
+insert into ergazetai values(66334444,53);
+insert into ergazetai values(77334884,53);
+insert into ergazetai values(33334488,53);
+insert into ergazetai values(33334877,53);
+insert into ergazetai values(12233400,53);
+insert into ergazetai values(68778544,53);
+
+
+insert into ergazetai values(66334444,54);
+insert into ergazetai values(77334884,54);
+insert into ergazetai values(33334488,54);
+insert into ergazetai values(12233400,54);
+insert into ergazetai values(68778544,54);
+
+insert into ergazetai values(66334444,57);
+insert into ergazetai values(77334884,57);
+
+insert into ergazetai values(66334444,58);
+insert into ergazetai values(77334884,58);
+
+
+insert into ergazetai values(99338877,61);
+insert into ergazetai values(22377566,61);
+insert into ergazetai values(88334466,61);
+insert into ergazetai values(66335544,61);
+insert into ergazetai values(33449988,61);
+insert into ergazetai values(24554566,61);
+
+
+insert into ergazetai values(99338877,64);
+insert into ergazetai values(22377566,64);
+insert into ergazetai values(88334466,64);
+
+insert into ergazetai values(99338877,68);
+insert into ergazetai values(22377566,68);
+
+insert into ergazetai values(99338877,72);
+
+
+insert into ergazetai values(33334766,62);
+insert into ergazetai values(44660166,62);
+insert into ergazetai values(24554566,62);
+insert into ergazetai values(34080099,62);
+
+insert into ergazetai values(33334766,65);
+insert into ergazetai values(44660166,65);
+
+insert into ergazetai values(33334766,71);
+insert into ergazetai values(44660166,71);
+
+insert into ergazetai values(33334766,80);
+
+
+insert into ergazetai values(12233499,63);
+insert into ergazetai values(33334477,63);
+insert into ergazetai values(44334466,63);
+insert into ergazetai values(33335488,63);
+insert into ergazetai values(33000009,63);
+insert into ergazetai values(69960166,63);
+
+insert into ergazetai values(12233499,66);
+insert into ergazetai values(33000009,66);
+insert into ergazetai values(69960166,66);
+
+insert into ergazetai values(12233499,70);
+insert into ergazetai values(33000009,70);
+insert into ergazetai values(69960166,70);
+
+
+
+insert into ergazetai values(82552766,67);
+insert into ergazetai values(77334884,67);
+insert into ergazetai values(88334466,67);
+insert into ergazetai values(33334877,67);
+insert into ergazetai values(20034566,67);
+insert into ergazetai values(68778544,67);
+
+insert into ergazetai values(82552766,73);
+insert into ergazetai values(77334884,73);
+insert into ergazetai values(88334466,73);
+
+
+insert into ergazetai values(88337766,69);
+insert into ergazetai values(44660166,69);
+insert into ergazetai values(33334488,69);
+insert into ergazetai values(33334655,69);
+insert into ergazetai values(55770277,69);
+
+
+insert into ergazetai values(88337766,74);
+insert into ergazetai values(44660166,74);
+insert into ergazetai values(55770277,74);
+
+insert into ergazetai values(88337766,78);
+insert into ergazetai values(44660166,78);
+
+insert into ergazetai values(44337466,75);
+insert into ergazetai values(33334444,75);
+insert into ergazetai values(33334466,75);
+insert into ergazetai values(33334655,75);
+insert into ergazetai values(33449988,75);
+insert into ergazetai values(34080099,75);
+
+
+insert into ergazetai values(44337466,76);
+insert into ergazetai values(33449988,76);
+insert into ergazetai values(34080099,76);
+
+insert into ergazetai values(44337466,77);
+insert into ergazetai values(33449988,77);
+insert into ergazetai values(34080099,77);
+
+insert into ergazetai values(44337466,78);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

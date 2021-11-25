@@ -1,0 +1,17 @@
+insert into Ermineuths values(33334455,2012,5,'R&B,Hip-Hop',4,2,'Jonas Rose');
+insert into Ermineuths values(33334499,2015,3,'Pop,Rock',3,1,'Toll Brothers');
+insert into Ermineuths values(33554499,2015,3,'Pop,Rock',3,1,'Toll Brothers');
+insert into Ermineuths values(66334444,2013,4,'Punk,Rock',5,1,'Halli Charlie');
+insert into Ermineuths values(99334477,2016,4,'Latin,Pop,Rock',1,0,'Milly');
+
+insert into Ermineuths values(55774477,2014,5,'Punk,Jazz,Soul',0,0,'Nancy Dagnall');
+insert into Ermineuths values(33334544,2013,4,'Hip-Hop,Rap',3,3,'D maude');
+insert into Ermineuths values(33334766,2015,2,'R&B',1,1,'Big Lazlo');
+insert into Ermineuths values(44337466,2016,4,'Pop,Rock',1,0,'Bert D.');
+insert into Ermineuths values(88337766,2017,2,'Alternative Rock,Punk',2,0,'Allan K.');
+
+insert into Ermineuths values(99338877,2016,5,'Hip-Hop',1,1,'Rosie');
+insert into Ermineuths values(22334566,2017,5,'Pop,Rock,Hip-Hop',1,1,'Benny Camillo');
+insert into Ermineuths values(82552766,2012,5,'Pop,Rock',2,1,'Jason Keats');
+insert into Ermineuths values(12233499,2014,4,'Jazz,Latin',1,0,'Kacey Chaffe');
+insert into Ermineuths values(12233455,2016,3,'Pop',0,0,'Alison Lavigne');

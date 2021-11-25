@@ -1,0 +1,9 @@
+insert into Paragwgos values(33334444,12);
+insert into Paragwgos values(33334477,5);
+insert into Paragwgos values(55334477,4);
+insert into Paragwgos values(44664466,10);
+
+insert into Paragwgos values(33336499,21);
+insert into Paragwgos values(44660166,16);
+insert into Paragwgos values(22377566,20);
+insert into Paragwgos values(77334884,18);

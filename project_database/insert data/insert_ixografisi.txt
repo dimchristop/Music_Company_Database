@@ -1,0 +1,88 @@
+insert into hxografisi values(1, '2017-04-05', 5, 3,'Loyalty Is Fragile');
+insert into hxografisi values(2, '2017-04-05', 4, 2,'Traces Of War');
+insert into hxografisi values(3, '2017-04-05', 3, 3,'Act Of Faith');
+insert into hxografisi values(4, '2017-04-05', 1, 2,'Leisure On The Floor');
+insert into hxografisi values(5, '2017-04-07', 4, 2,'Loyalty Is Fragile');
+insert into hxografisi values(6, '2017-04-07', 3, 2,'Act Of Faith');
+insert into hxografisi values(7, '2017-04-09', 5, 4,'Contentment Happens');
+insert into hxografisi values(8, '2017-04-09', 1, 4,'Leisure On The Floor');
+insert into hxografisi values(9, '2017-04-09', 3, 3,'Traces Of War');
+insert into hxografisi values(10, '2017-04-11', 2, 3,'Quality Unlocked');
+insert into hxografisi values(11, '2017-04-11', 3, 3,'Abandoned Beast');
+insert into hxografisi values(12, '2017-04-15', 4, 2,'Traces Of War');
+insert into hxografisi values(13, '2017-04-15', 5, 4,'Contentment Happens');
+insert into hxografisi values(14, '2017-04-15', 1, 4,'Quality Unlocked');
+insert into hxografisi values(15, '2017-04-19', 1, 4,'Abandoned Beast');
+insert into hxografisi values(16, '2017-04-19', 2, 2,'Quality Unlocked');
+insert into hxografisi values(17, '2017-04-23', 4, 2,'Abandoned Beast');
+insert into hxografisi values(18, '2017-04-23', 2, 4,'Satin Faith');
+insert into hxografisi values(19, '2017-04-23', 3, 3,'Act Of Faith');
+insert into hxografisi values(20, '2017-04-27', 5, 2,'Contentment Happens');
+
+insert into hxografisi values(21, '2017-04-01', 5, 3,'Buying Ignorance');
+insert into hxografisi values(22, '2017-04-01', 4, 2,'Perpetual Ability');
+insert into hxografisi values(23, '2017-04-03', 3, 3,'Cold Bible');
+insert into hxografisi values(24, '2017-04-03', 1, 2,'Deafening Town');
+insert into hxografisi values(25, '2017-04-03', 4, 2,'Perpetual Ability');
+insert into hxografisi values(26, '2017-04-04', 3, 2,'Cold Bible');
+insert into hxografisi values(27, '2017-04-08', 5, 4,'Buying Ignorance');
+insert into hxografisi values(28, '2017-04-08', 1, 4,'Deafening Town');
+insert into hxografisi values(29, '2017-04-10', 3, 3,'Perpetual Ability');
+insert into hxografisi values(30, '2017-04-12', 2, 3,'Enemies Of Annoyance');
+insert into hxografisi values(31, '2017-04-13', 3, 3,'Buying Ignorance');
+insert into hxografisi values(32, '2017-04-13', 4, 2,'Deafening Town');
+insert into hxografisi values(33, '2017-04-13', 5, 4,'Dont Touch The Alley');
+insert into hxografisi values(34, '2017-04-16', 1, 4,'Enemies Of Annoyance');
+insert into hxografisi values(35, '2017-04-16', 1, 4,'Dont Touch The Alley');
+insert into hxografisi values(36, '2017-04-20', 2, 2,'Dont Touch The Alley');
+insert into hxografisi values(37, '2017-04-25', 4, 2,'Island Of Hidden Hate');
+insert into hxografisi values(38, '2017-04-25', 2, 4,'Cold Bible');
+insert into hxografisi values(39, '2017-04-26', 3, 3,'Island Of Hidden Hate');
+insert into hxografisi values(40, '2017-04-29', 5, 2,'Enemies Of Annoyance');
+
+
+
+
+
+insert into hxografisi values(41, '2017-05-02', 2, 3,'Guilt Is Bliss');
+insert into hxografisi values(42, '2017-05-02', 1, 2,'Loose Man');
+insert into hxografisi values(43, '2017-05-03', 4, 3,'Trouble Wont Take Me Alive');
+insert into hxografisi values(44, '2017-05-04', 1, 2,'Loose Man');
+insert into hxografisi values(45, '2017-05-05', 5, 2,'Blue Psycho');
+insert into hxografisi values(46, '2017-05-05', 2, 2,'Guilt Is Bliss');
+insert into hxografisi values(47, '2017-05-05', 1, 4,'Reckless Catalyst');
+insert into hxografisi values(48, '2017-05-08', 1, 2,'Reckless Catalyst');
+insert into hxografisi values(49, '2017-05-08', 4, 3,'Trouble Wont Take Me Alive');
+insert into hxografisi values(50, '2017-05-11', 5, 3,'Blue Psycho');
+insert into hxografisi values(51, '2017-05-11', 2, 2,'Loose Man');
+insert into hxografisi values(52, '2017-05-14', 1, 2,'Reckless Catalyst');
+insert into hxografisi values(53, '2017-05-14', 2, 4,'Son Of A Highway');
+insert into hxografisi values(54, '2017-05-18', 3, 2,'Son Of A Highway');
+insert into hxografisi values(55, '2017-05-18', 5, 4,'Blue Psycho');
+insert into hxografisi values(56, '2017-05-19', 4, 2,'Guilt Is Bliss');
+insert into hxografisi values(57, '2017-05-22', 4, 2,'Son Of A Highway');
+insert into hxografisi values(58, '2017-05-22', 2, 4,'Son Of A Highway');
+insert into hxografisi values(59, '2017-05-25', 3, 3,'Blue Psycho');
+insert into hxografisi values(60, '2017-05-28', 5, 2,'Loose Man');
+
+
+insert into hxografisi values(61, '2017-05-01', 2, 3,'Eternal Safety');
+insert into hxografisi values(62, '2017-05-01', 1, 2,'Solidified Implosion');
+insert into hxografisi values(63, '2017-05-02', 4, 3,'Natural Sense');
+insert into hxografisi values(64, '2017-05-03', 1, 2,'Eternal Safety');
+insert into hxografisi values(65, '2017-05-06', 5, 2,'Solidified Implosion');
+insert into hxografisi values(66, '2017-05-06', 2, 2,'Natural Sense');
+insert into hxografisi values(67, '2017-05-07', 1, 4,'Waiting For Forgiveness');
+insert into hxografisi values(68, '2017-05-07', 1, 2,'Eternal Safety');
+insert into hxografisi values(69, '2017-05-07', 4, 3,'Drums Of Peace');
+insert into hxografisi values(70, '2017-05-10', 5, 3,'Natural Sense');
+insert into hxografisi values(71, '2017-05-10', 2, 2,'Solidified Implosion');
+insert into hxografisi values(72, '2017-05-10', 1, 2,'Eternal Safety');
+insert into hxografisi values(73, '2017-05-16', 2, 4,'Waiting For Forgiveness');
+insert into hxografisi values(74, '2017-05-16', 3, 2,'Drums Of Peace');
+insert into hxografisi values(75, '2017-05-18', 2, 4,'Red Passion');
+insert into hxografisi values(76, '2017-05-20', 4, 2,'Red Passion');
+insert into hxografisi values(77, '2017-05-21', 4, 2,'Red Passion');
+insert into hxografisi values(78, '2017-05-21', 2, 4,'Drums Of Peace');
+insert into hxografisi values(79, '2017-05-24', 3, 3,'Red Passion');
+insert into hxografisi values(80, '2017-05-26', 5, 2,'Solidified Implosion');

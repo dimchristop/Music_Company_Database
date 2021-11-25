@@ -1,0 +1,905 @@
+insert into Ergazomenos values(33334444,'John Hallward',35,'21 jump ST.','S',6977778889,'john@gmail.com','M',50000);       
+insert into Ergazomenos values(33334455,'Jonas Rosewarne',30,'22 Wayridge Plaza','M',6977778899,'jonas@gmail.com','M',75000);            
+insert into Ergazomenos values(33334466,'Kevin Quail',24,'25 Ridgeway Park','S',6977778834,'kevin@gmail.com','M',60000);
+insert into Ergazomenos values(33334477,'Helen Angless',22,'26 Melvin Crossing','S',6977778856,'helen@gmail.com','F',55000);          
+insert into Ergazomenos values(33334488,'Clarke Wadeson',45,'27 Badeau Street','D',6977778367,'cl@gmail.com','F',80000);
+insert into Ergazomenos values(33334499,'Marcus Toll',28,'22 jump ST.','M',6977778368,'marc@gmail.com','M',40000);                    
+insert into Ergazomenos values(44334466,'Nick Steel',21,'246 Badeau Street','S',6977778934,'nik@gmail.com','M',62000);
+insert into Ergazomenos values(55334477,'Octavia Aldwich',22,'29 Ridgeway Park','S',6977779856,'oct@hotmail.com','F',48000);          
+
+
+insert into Ergazomenos values(66334444,'Charlie Hallibone',37,'21 Hollywood ST.','S',6933778889,'charlie@gmail.com','M',52000);         
+insert into Ergazomenos values(77334455,'Belamy Berntsson',56,'22 Melvin Crossing','M',6944778899,'bel@gmail.com','M',81000);
+insert into Ergazomenos values(88334466,'George Pykerman',21,'25 Delaware Alley','S',6955778834,'geo18@hotmail.com','M',63000);
+insert into Ergazomenos values(99334477,'Emily Kaye',27,'26 Summerview Street','S',6966778856,'emily@gmail.com','F',42000);              
+insert into Ergazomenos values(33444488,'Mary Lugard',54,'27 Hollywood ST.','D',6978778367,'mary3@hotmail.com','F',71000);
+insert into Ergazomenos values(33554499,'Andrew Toll',24,'22 Porter Terrace','M',6988778368,'and15@gmail.com','M',35000);                
+insert into Ergazomenos values(44664466,'Jim Thunders',29,'246 Delaware Alley','S',6999778934,'jimmy@hotmail.com','M',57000);              
+insert into Ergazomenos values(55774477,'Nancy Dagnall',19,'29 Summerview Street','S',6979779856,'nanc18@gmail.com','F',42000);           
+
+
+insert into Ergazomenos values(33334544,'Maude Dello',32,'21 Waywood Pass','S',6974775889,'mau@gmail.com','M',45000);                 
+insert into Ergazomenos values(33334655,'Danice Mount',28,'22 Eastlawn Road','M',6976908899,'danm@gmail.com','M',65000);
+insert into Ergazomenos values(33334766,'Lazarus Buckler',21,'25 Del Mar Avenue','S',6979978834,'mol@hotmail.com','M',64000);             
+insert into Ergazomenos values(33334877,'Reiko Breyt',22,'35 Waywood Pass','S',6977799856,'reik@gmail.com','F',53000);
+insert into Ergazomenos values(33335488,'Molli Stannislawski',52,'27 Monica Hill','D',6997778367,'laz34@gmail.com','F',76000);
+insert into Ergazomenos values(33336499,'Blinny Robb',45,'22 Eastlawn Road','M',6999978368,'blinn3@gmail.com','M',82000);               
+insert into Ergazomenos values(44337466,'Berty Digwood',21,'247 Hudson Way','S',6900078934,'ber45@hotmail.com','M',52000);             
+insert into Ergazomenos values(55338477,'Jermaine Rumbelow',24,'29 Waywood Pass','S',6911179856,'jermy@gmail.com','F',45000);
+
+
+insert into Ergazomenos values(66335544,'Teodoro Duke',42,'21 Hallows Center','S',6932378889,'teo23@gmail.com','M',49000);
+insert into Ergazomenos values(77336655,'Harris Corker',51,'22 Everett Terrace','M',6942345899,'hary2@gmail.com','M',66000);
+insert into Ergazomenos values(88337766,'Allan Keats',25,'25 Hallows Center','S',6955690834,'alan18@gmail.com','M',61000);                
+insert into Ergazomenos values(99338877,'Roseline Brownlee',23,'26 Sullivan Place','S',6923478856,'rosie7@gmail.com','F',57000);          
+insert into Ergazomenos values(33449988,'Clarence Landman',47,'27 Hudson Way','D',6956778367,'clar3@gmail.com','F',57000);
+insert into Ergazomenos values(33550099,'Dante Obee',22,'22 Waywood Pass','M',6988891368,'dante15@gmail.com','M',57000);
+insert into Ergazomenos values(44660166,'Cinda Chupin',31,'246 Monica Hill','S',6999798734,'cin99@gmail.com','M',57000);             
+insert into Ergazomenos values(55770277,'Ester Jarlmann',34,'29 Eastlawn Road','S',6970079856,'est3r@hotmail.com','F',43000);
+
+
+
+
+insert into Ergazomenos values(12233445,'Bayard Rumney',23,'17 Menomonie Avenue','S',6971243889,'bay23@gmail.com','M',55000);
+insert into Ergazomenos values(22334566,'Benny Camillo',25,'22 Stang Road','M',6974231899,'benn@gmail.com','M',69000);                  
+insert into Ergazomenos values(22377566,'Justino Checkley',56,'25 Atwood Plaza','M',6975432834,'jastin@gmail.com','M',68000);            
+insert into Ergazomenos values(12233400,'Alida Summerhayes',44,'35 Victoria Hill','M',6972345856,'allida@gmail.com','F',49000);
+insert into Ergazomenos values(20034566,'Teresa Carville',55,'27 Monica Hill','D',6995243367,'tere34@gmail.com','F',72000);
+insert into Ergazomenos values(33000009,'Gage Sparway',33,'22 Dixon Center','S',6994452368,'cagee2@gmail.com','M',41000);
+insert into Ergazomenos values(12233499,'Kacey Chaffe',22,'247 Dixon Center','S',6900524434,'kacie@gmail.com','M',34000);                   
+insert into Ergazomenos values(24554566,'Bertie Huguet',34,'29 Straubel Terrace','S',6911223556,'bert4@hotmail.com','F',56000);
+
+
+insert into Ergazomenos values(68778544,'Grantley Scay',41,'21 Straubel Terrace','D',6932366519,'grant@gmail.com','M',49000);
+insert into Ergazomenos values(77334884,'Herold Tunnock',52,'22 Victoria Hill','D',6948876899,'herol75@hotmail.com','M',66000);             
+insert into Ergazomenos values(82552766,'Jason Keats',26,'48 Atwood Plaza','S',6957786834,'all4@gmail.com','M',61000);                   
+insert into Ergazomenos values(12233555,'Ranique Broadwell',45,'226 Stang Road','M',6923668756,'ranq@hotmail.com','F',57000);
+insert into Ergazomenos values(33047988,'Kylynn Kinsella',62,'27 Stang Road','D',6956767897,'kylyn@gmail.com','F',57000);
+insert into Ergazomenos values(34080099,'Peter Toll',53,'22 jump ST.','M',6988899048,'pete89@gmail.com','M',57000);
+insert into Ergazomenos values(69960166,'Beryl McHaffy',35,'173 Menomonie Avenue','S',6992468734,'berill@gmail.com','M',57000);
+insert into Ergazomenos values(12233455,'Alison Lavigne',19,'34 Menomonie Avenue','S',6971357956,'alisonlav@hotmail.com','F',43000); 
+
+
+
+
+
+
+
+
+insert into Paragwgos values(33334444,12);
+insert into Paragwgos values(33334477,5);
+insert into Paragwgos values(55334477,4);
+insert into Paragwgos values(44664466,10);
+
+insert into Paragwgos values(33336499,21);
+insert into Paragwgos values(44660166,16);
+insert into Paragwgos values(22377566,20);
+insert into Paragwgos values(77334884,18);
+
+
+
+
+
+insert into Ermineuths values(33334455,2012,5,'R&B,Hip-Hop',4,2,'Jonas Rose');
+insert into Ermineuths values(33334499,2015,3,'Pop,Rock',3,1,'Toll Brothers');
+insert into Ermineuths values(33554499,2015,3,'Pop,Rock',3,1,'Toll Brothers');
+insert into Ermineuths values(66334444,2013,4,'Punk,Rock',5,1,'Halli Charlie');
+insert into Ermineuths values(99334477,2016,4,'Latin,Pop,Rock',1,0,'Milly');
+
+insert into Ermineuths values(55774477,2014,5,'Punk,Jazz,Soul',0,0,'Nancy Dagnall');
+insert into Ermineuths values(33334544,2013,4,'Hip-Hop,Rap',3,3,'D maude');
+insert into Ermineuths values(33334766,2015,2,'R&B',1,1,'Big Lazlo');
+insert into Ermineuths values(44337466,2016,4,'Pop,Rock',1,0,'Bert D.');
+insert into Ermineuths values(88337766,2017,2,'Alternative Rock,Punk',2,0,'Allan K.');
+
+insert into Ermineuths values(99338877,2016,5,'Hip-Hop',1,1,'Rosie');
+insert into Ermineuths values(22334566,2017,5,'Pop,Rock,Hip-Hop',1,1,'Benny Camillo');
+insert into Ermineuths values(82552766,2012,5,'Pop,Rock',2,1,'Jason Keats');
+insert into Ermineuths values(12233499,2014,4,'Jazz,Latin',1,0,'Kacey Chaffe');
+insert into Ermineuths values(12233455,2016,3,'Pop',0,0,'Alison Lavigne');
+
+
+
+insert into Mousikos values(33334466,'Punk,Rock,Metal','composer');
+insert into Mousikos values(33334488,'Pop,Rock','composer');
+insert into Mousikos values(44334466,'Jazz,Latin','composer,piano,saxophone');
+insert into Mousikos values(77334455,'R&B,Rap','composer');
+insert into Mousikos values(88334466,'Hip-Hop','composer');
+
+insert into Mousikos values(33334655,'Punk,Rock,Metal','songwriter,piano');
+insert into Mousikos values(33334877,'Pop,Rock','songwriter');
+insert into Mousikos values(33335488,'Jazz,Latin','songwriter,Lyra');
+insert into Mousikos values(55338477,'R&B,Rap','songwriter');
+insert into Mousikos values(66335544,'Hip-Hop','songwriter');
+
+insert into Mousikos values(77336655,'Punk,Jazz','bass,trombone');
+insert into Mousikos values(33449988,'Pop,Rock','bass');
+insert into Mousikos values(33550099,'Jazz,Latin,Pop','bass,Lyra');
+insert into Mousikos values(55770277,'Punk,Rock,Metal','guitar');
+insert into Mousikos values(12233445,'Punk,Alternative','guitar,trombone');
+
+insert into Mousikos values(12233400,'Punk,Rock,Metal','guitar');
+insert into Mousikos values(20034566,'Pop,Rock','guitar');
+insert into Mousikos values(33000009,'Jazz,Latin,Classic','guitar,accordion');
+insert into Mousikos values(24554566,'R&B,Rap,Hip-Hop','guitar,drums');
+insert into Mousikos values(68778544,'Punk,Rock,Metal','drums');
+
+insert into Mousikos values(77334884,'Rap,Hip-Hop,Rock','drums');
+insert into Mousikos values(12233555,'Classic','violin');
+insert into Mousikos values(33047988,'Pop,Alternative,Jazz,Latin','violin,accordion');
+insert into Mousikos values(34080099,'Pop,Alternative','piano');
+insert into Mousikos values(69960166,'Jazz,Latin','saxophone,flute');
+
+
+
+insert into hxografisi values(1, '2017-04-05', 5, 3,'Loyalty Is Fragile');
+insert into hxografisi values(2, '2017-04-05', 4, 2,'Traces Of War');
+insert into hxografisi values(3, '2017-04-05', 3, 3,'Act Of Faith');
+insert into hxografisi values(4, '2017-04-05', 1, 2,'Leisure On The Floor');
+insert into hxografisi values(5, '2017-04-07', 4, 2,'Loyalty Is Fragile');
+insert into hxografisi values(6, '2017-04-07', 3, 2,'Act Of Faith');
+insert into hxografisi values(7, '2017-04-09', 5, 4,'Contentment Happens');
+insert into hxografisi values(8, '2017-04-09', 1, 4,'Leisure On The Floor');
+insert into hxografisi values(9, '2017-04-09', 3, 3,'Traces Of War');
+insert into hxografisi values(10, '2017-04-11', 2, 3,'Quality Unlocked');
+insert into hxografisi values(11, '2017-04-11', 3, 3,'Abandoned Beast');
+insert into hxografisi values(12, '2017-04-15', 4, 2,'Traces Of War');
+insert into hxografisi values(13, '2017-04-15', 5, 4,'Contentment Happens');
+insert into hxografisi values(14, '2017-04-15', 1, 4,'Quality Unlocked');
+insert into hxografisi values(15, '2017-04-19', 1, 4,'Abandoned Beast');
+insert into hxografisi values(16, '2017-04-19', 2, 2,'Quality Unlocked');
+insert into hxografisi values(17, '2017-04-23', 4, 2,'Abandoned Beast');
+insert into hxografisi values(18, '2017-04-23', 2, 4,'Satin Faith');
+insert into hxografisi values(19, '2017-04-23', 3, 3,'Act Of Faith');
+insert into hxografisi values(20, '2017-04-27', 5, 2,'Contentment Happens');
+
+insert into hxografisi values(21, '2017-04-01', 5, 3,'Buying Ignorance');
+insert into hxografisi values(22, '2017-04-01', 4, 2,'Perpetual Ability');
+insert into hxografisi values(23, '2017-04-03', 3, 3,'Cold Bible');
+insert into hxografisi values(24, '2017-04-03', 1, 2,'Deafening Town');
+insert into hxografisi values(25, '2017-04-03', 4, 2,'Perpetual Ability');
+insert into hxografisi values(26, '2017-04-04', 3, 2,'Cold Bible');
+insert into hxografisi values(27, '2017-04-08', 5, 4,'Buying Ignorance');
+insert into hxografisi values(28, '2017-04-08', 1, 4,'Deafening Town');
+insert into hxografisi values(29, '2017-04-10', 3, 3,'Perpetual Ability');
+insert into hxografisi values(30, '2017-04-12', 2, 3,'Enemies Of Annoyance');
+insert into hxografisi values(31, '2017-04-13', 3, 3,'Buying Ignorance');
+insert into hxografisi values(32, '2017-04-13', 4, 2,'Deafening Town');
+insert into hxografisi values(33, '2017-04-13', 5, 4,'Dont Touch The Alley');
+insert into hxografisi values(34, '2017-04-16', 1, 4,'Enemies Of Annoyance');
+insert into hxografisi values(35, '2017-04-16', 1, 4,'Dont Touch The Alley');
+insert into hxografisi values(36, '2017-04-20', 2, 2,'Dont Touch The Alley');
+insert into hxografisi values(37, '2017-04-25', 4, 2,'Island Of Hidden Hate');
+insert into hxografisi values(38, '2017-04-25', 2, 4,'Cold Bible');
+insert into hxografisi values(39, '2017-04-26', 3, 3,'Island Of Hidden Hate');
+insert into hxografisi values(40, '2017-04-29', 5, 2,'Enemies Of Annoyance');
+
+
+
+
+
+insert into hxografisi values(41, '2017-05-02', 2, 3,'Guilt Is Bliss');
+insert into hxografisi values(42, '2017-05-02', 1, 2,'Loose Man');
+insert into hxografisi values(43, '2017-05-03', 4, 3,'Trouble Wont Take Me Alive');
+insert into hxografisi values(44, '2017-05-04', 1, 2,'Loose Man');
+insert into hxografisi values(45, '2017-05-05', 5, 2,'Blue Psycho');
+insert into hxografisi values(46, '2017-05-05', 2, 2,'Guilt Is Bliss');
+insert into hxografisi values(47, '2017-05-05', 1, 4,'Reckless Catalyst');
+insert into hxografisi values(48, '2017-05-08', 1, 2,'Reckless Catalyst');
+insert into hxografisi values(49, '2017-05-08', 4, 3,'Trouble Wont Take Me Alive');
+insert into hxografisi values(50, '2017-05-11', 5, 3,'Blue Psycho');
+insert into hxografisi values(51, '2017-05-11', 2, 2,'Loose Man');
+insert into hxografisi values(52, '2017-05-14', 1, 2,'Reckless Catalyst');
+insert into hxografisi values(53, '2017-05-14', 2, 4,'Son Of A Highway');
+insert into hxografisi values(54, '2017-05-18', 3, 2,'Son Of A Highway');
+insert into hxografisi values(55, '2017-05-18', 5, 4,'Blue Psycho');
+insert into hxografisi values(56, '2017-05-19', 4, 2,'Guilt Is Bliss');
+insert into hxografisi values(57, '2017-05-22', 4, 2,'Son Of A Highway');
+insert into hxografisi values(58, '2017-05-22', 2, 4,'Son Of A Highway');
+insert into hxografisi values(59, '2017-05-25', 3, 3,'Blue Psycho');
+insert into hxografisi values(60, '2017-05-28', 5, 2,'Loose Man');
+
+
+insert into hxografisi values(61, '2017-05-01', 2, 3,'Eternal Safety');
+insert into hxografisi values(62, '2017-05-01', 1, 2,'Solidified Implosion');
+insert into hxografisi values(63, '2017-05-02', 4, 3,'Natural Sense');
+insert into hxografisi values(64, '2017-05-03', 1, 2,'Eternal Safety');
+insert into hxografisi values(65, '2017-05-06', 5, 2,'Solidified Implosion');
+insert into hxografisi values(66, '2017-05-06', 2, 2,'Natural Sense');
+insert into hxografisi values(67, '2017-05-07', 1, 4,'Waiting For Forgiveness');
+insert into hxografisi values(68, '2017-05-07', 1, 2,'Eternal Safety');
+insert into hxografisi values(69, '2017-05-07', 4, 3,'Drums Of Peace');
+insert into hxografisi values(70, '2017-05-10', 5, 3,'Natural Sense');
+insert into hxografisi values(71, '2017-05-10', 2, 2,'Solidified Implosion');
+insert into hxografisi values(72, '2017-05-10', 1, 2,'Eternal Safety');
+insert into hxografisi values(73, '2017-05-16', 2, 4,'Waiting For Forgiveness');
+insert into hxografisi values(74, '2017-05-16', 3, 2,'Drums Of Peace');
+insert into hxografisi values(75, '2017-05-18', 2, 4,'Red Passion');
+insert into hxografisi values(76, '2017-05-20', 4, 2,'Red Passion');
+insert into hxografisi values(77, '2017-05-21', 4, 2,'Red Passion');
+insert into hxografisi values(78, '2017-05-21', 2, 4,'Drums Of Peace');
+insert into hxografisi values(79, '2017-05-24', 3, 3,'Red Passion');
+insert into hxografisi values(80, '2017-05-26', 5, 2,'Solidified Implosion');
+
+
+
+
+insert into paragwgh values('Guilt Is Bliss','Alison Lavigne','Guilt Is Bliss',1,2017,100000);
+insert into paragwgh values('Cold Bible','Allan K.','Cold Bible',1,2017,60000);
+insert into paragwgh values('Loose Man','Benny Camillo','Loose Man',1,2017,300000);
+insert into paragwgh values('Red Passion','Bert D.','Red Passion,Drums Of Peace,Island Of Hidden Hate,Deafening Town',4,2017,90000);
+insert into paragwgh values('Satin Faith','Big Lazlo','Satin Faith, Solidified Implosion',2,2017,250000);
+insert into paragwgh values('Trouble Wont Take Me Alive','D maude','Trouble Wont Take Me Alive',1,2017,60000);
+insert into paragwgh values('Blue Psycho','Halli Charlie','Quality Unlocked,Blue Psycho,Leisure On The Floor,Son Of A Highway',4,2017,200000);
+
+insert into paragwgh values('Perpetual Ability','Jason Keats','Perpetual Ability,Waiting For Forgiveness',2,2017,100000);
+insert into paragwgh values('Loyalty Is Fragile','Jonas Rose','Loyalty Is Fragile',1,2017,200000);
+insert into paragwgh values('Natural Sense','Kacey Chaffe','Natural Sense,Buying Ignorance',2,2017,300000);
+insert into paragwgh values('Act Of Faith','Milly','Act Of Faith,Dont Touch The Alley',2,2017,190000);
+insert into paragwgh values('Reckless Catalyst','Nancy Dagnall','Reckless Catalyst,Contentment Happens',2,2017,250000);
+insert into paragwgh values('Eternal Safety','Rosie','Eternal Safety,Abandoned Beast,Enemies Of Annoyance',3,2017,60000);
+insert into paragwgh values('Traces Of War','Toll Brothers','Traces Of War',1,2017,270000);
+
+
+insert into paragwgh values('Best of 2017','famous superstars from our label','Loose Man,Blue Psycho,Satin Faith,Act Of Faith,Traces Of War',5,2017,1500000);
+
+
+
+
+
+insert into Synavlia  values ('Jonas Rose Lyon2017', '2017/07/29', 'Lyon', '9:00 PM', 'France', 7021, 26);
+insert into Synavlia  values ('Toll Brothers Paris2017', '2017/08/05', 'Paris', '10:00 PM', 'France', 8460, 42);
+insert into Synavlia  values ('Halli Charlie Vernon2017', '2017/07/14', 'Vernon', '10:00 PM', 'France', 4463, 45);
+insert into Synavlia  values ('Milly Athens2017', '2017/08/21', 'Athens', '10:00 PM', 'Greece', 4307, 39);
+insert into Synavlia  values ('Nancy Dagnall Greece2017', '2017/08/21', 'Thessaloniki', '9:00 PM', 'Greece', 5526, 29);
+insert into Synavlia  values ('D maude Nice2017', '2017/07/06', 'Nice', '9:00 PM', 'France', 7003, 25);
+insert into Synavlia  values ('Big Lazlo Athens2017', '2017/07/02', 'Athens', '9:00 PM', 'Greece', 9080, 40);
+insert into Synavlia  values ('Bert D. UK2017', '2017/07/06', 'Manchester', '10:00 PM', 'United Kingdom', 2315, 40);
+insert into Synavlia  values ('Allan K. ft Nancy Dagnall Athens2017', '2017/07/05', 'Athens', '9:00 PM', 'Greece', 3823, 35);
+insert into Synavlia  values ('Rosie in Valencia2017', '2017/07/27', 'Valencia', '9:00 PM', 'Spain', 5942, 25);
+insert into Synavlia  values ('Benny Camillo Barcelona2017', '2017/08/07', 'Barcelona', '10:00 PM', 'Spain', 4106, 29);
+insert into Synavlia  values ('Jason Keats Rome2017', '2017/08/05', 'Rome', '9:00 PM', 'Italy', 3593, 40);
+insert into Synavlia  values ('Kacey Chaffe Milan2017', '2017/08/26', 'Milan', '9:00 PM', 'Italy', 3339, 20);
+insert into Synavlia  values ('Alison Lavigne Thessaloniki2017', '2017/07/06', 'Thessaloniki', '10:00 PM', 'Greece', 5949, 20);
+insert into Synavlia  values ('Jason Keats France2017', '2017/07/11', 'Mont-de-Marsan', '9:00 PM', 'France', 6524, 20);
+insert into Synavlia  values ('Benny Camillo UK2017', '2017/08/26', 'Edinburgh', '9:00 PM', 'United Kingdom', 8088, 50);
+insert into Synavlia  values ('Big Lazlo Newcastle2017', '2017/08/02', 'Newcastle', '9:00 PM', 'United Kingdom', 9864, 35);
+insert into Synavlia  values ('Halli Charlie London2017', '2017/08/03', 'London', '8:00 PM', 'United Kingdom', 6123, 50);
+insert into Synavlia  values ('Benny Camillo France2017', '2017/08/21', 'Bressuire', '9:00 PM', 'France', 8427, 50);
+insert into Synavlia  values ('Milly UK2017', '2017/08/08', 'Halton', '9:00 PM', 'United Kingdom', 2016, 20);
+insert into Synavlia  values ('Halli Charlie and Rosie Paris2017', '2017/08/13', 'Paris 20', '8:00 PM', 'France', 8983, 35);
+insert into Synavlia  values ('Milly and Rosie UK2017', '2017/08/22', 'Bradford', '9:00 PM', 'United Kingdom', 3042, 30);
+insert into Synavlia  values ('Big Lazlo France2017', '2017/07/30', 'Évreux', '9:00 PM', 'France', 1559, 30);
+insert into Synavlia  values ('Jonas Rose Paris2017', '2017/08/04', 'Paris 08', '8:00 PM', 'France', 7013, 50);
+insert into Synavlia  values ('Benny Camillo Athens2017', '2017/07/29', 'Athens', '9:00 PM', 'Greece', 3759, 20);
+insert into Synavlia  values ('Big Lazlo Madrid2017', '2017/07/06', 'Madrid', '10:00 PM', 'Spain', 1083, 40);
+insert into Synavlia values ('Jonas Rose Rome2017', '2017/08/27', 'Rome', '8:00 PM', 'Italy', 6481, 30);
+insert into Synavlia  values ('D maude Paris2017', '2017/07/25', 'Paris', '9:00 PM', 'France', 2974, 45);
+insert into Synavlia  values ('Kacey Chaffe Rome2017', '2017/07/28', 'Rome', '9:00 PM', 'Italy', 9778, 40);
+insert into Synavlia values ('Toll Brothers ft Alison Lavigne Spain2017', '2017/08/28', 'Madrid', '8:00 PM', 'Spain', 1412, 30);
+
+
+
+
+
+insert into ergazetai values(33334455,1);
+insert into ergazetai values(33334444,1);
+insert into ergazetai values(77334455,1);
+insert into ergazetai values(55338477,1);
+insert into ergazetai values(24554566,1);
+insert into ergazetai values(77334884,1);
+
+insert into ergazetai values(33334455,5);
+insert into ergazetai values(24554566,5);
+insert into ergazetai values(77334884,5);
+
+
+insert into ergazetai values(33334499,2);
+insert into ergazetai values(33554499,2);
+insert into ergazetai values(33334477,2);
+insert into ergazetai values(33334488,2);
+insert into ergazetai values(33334877,2);
+insert into ergazetai values(33449988,2);
+insert into ergazetai values(20034566,2);
+
+
+insert into ergazetai values(33334477,9);
+insert into ergazetai values(33554499,9);
+insert into ergazetai values(33334499,9);
+insert into ergazetai values(33449988,9);
+insert into ergazetai values(20034566,9);
+
+
+insert into ergazetai values(33334499,12);
+insert into ergazetai values(33554499,12);
+
+
+insert into ergazetai values(99334477,3);
+insert into ergazetai values(55334477,3);
+insert into ergazetai values(44334466,3);
+insert into ergazetai values(33335488,3);
+insert into ergazetai values(77336655,3);
+
+
+insert into ergazetai values(99334477,6);
+insert into ergazetai values(44334466,6);
+insert into ergazetai values(12233445,6);
+
+insert into ergazetai values(99334477,19);
+insert into ergazetai values(33000009,19);
+
+
+
+insert into ergazetai values(66334444,4);
+insert into ergazetai values(33336499,4);
+insert into ergazetai values(33334466,4);
+insert into ergazetai values(33334655,4);
+insert into ergazetai values(55770277,4);
+insert into ergazetai values(68778544,4);
+
+
+insert into ergazetai values(66334444,8);
+insert into ergazetai values(68778544,8);
+insert into ergazetai values(55770277,8);
+
+
+insert into ergazetai values(55774477,7);
+insert into ergazetai values(44660166,7);
+insert into ergazetai values(44334466,7);
+insert into ergazetai values(33335488,7);
+insert into ergazetai values(77336655,7);
+insert into ergazetai values(68778544,7);
+
+
+insert into ergazetai values(55774477,13);
+insert into ergazetai values(68778544,13);
+insert into ergazetai values(33047988,13);
+insert into ergazetai values(77336655,13);
+
+insert into ergazetai values(55774477,20);
+
+insert into ergazetai values(66334444,10);
+insert into ergazetai values(77334884,10);
+insert into ergazetai values(33334488,10);
+insert into ergazetai values(33334877,10);
+insert into ergazetai values(12233400,10);
+insert into ergazetai values(68778544,10);
+
+
+insert into ergazetai values(66334444,14);
+insert into ergazetai values(77334884,14);
+insert into ergazetai values(33334488,14);
+insert into ergazetai values(12233400,14);
+insert into ergazetai values(68778544,14);
+
+insert into ergazetai values(66334444,16);
+insert into ergazetai values(77334884,16);
+
+
+insert into ergazetai values(99338877,11);
+insert into ergazetai values(22377566,11);
+insert into ergazetai values(88334466,11);
+insert into ergazetai values(66335544,11);
+insert into ergazetai values(33449988,11);
+insert into ergazetai values(24554566,11);
+
+
+insert into ergazetai values(99338877,15);
+insert into ergazetai values(22377566,15);
+insert into ergazetai values(88334466,15);
+
+insert into ergazetai values(99338877,17);
+insert into ergazetai values(22377566,17);
+
+
+insert into ergazetai values(33334766,18);
+insert into ergazetai values(44660166,18);
+insert into ergazetai values(24554566,18);
+insert into ergazetai values(34080099,18);
+
+
+insert into ergazetai values(12233499,21);
+insert into ergazetai values(33334477,21);
+insert into ergazetai values(44334466,21);
+insert into ergazetai values(33335488,21);
+insert into ergazetai values(33000009,21);
+insert into ergazetai values(69960166,21);
+
+insert into ergazetai values(12233499,27);
+insert into ergazetai values(33000009,27);
+insert into ergazetai values(69960166,27);
+
+insert into ergazetai values(12233499,31);
+insert into ergazetai values(33000009,31);
+insert into ergazetai values(69960166,31);
+
+
+
+insert into ergazetai values(82552766,22);
+insert into ergazetai values(77334884,22);
+insert into ergazetai values(88334466,22);
+insert into ergazetai values(33334877,22);
+insert into ergazetai values(20034566,22);
+insert into ergazetai values(68778544,22);
+
+insert into ergazetai values(82552766,25);
+insert into ergazetai values(77334884,25);
+insert into ergazetai values(88334466,25);
+
+insert into ergazetai values(82552766,29);
+insert into ergazetai values(77334884,29);
+insert into ergazetai values(20034566,29);
+insert into ergazetai values(68778544,29);
+
+insert into ergazetai values(88337766,23);
+insert into ergazetai values(44660166,23);
+insert into ergazetai values(33334488,23);
+insert into ergazetai values(33334655,23);
+insert into ergazetai values(55770277,23);
+
+
+insert into ergazetai values(88337766,26);
+insert into ergazetai values(44660166,26);
+insert into ergazetai values(55770277,26);
+
+insert into ergazetai values(88337766,28);
+insert into ergazetai values(44660166,28);
+
+insert into ergazetai values(44337466,24);
+insert into ergazetai values(33334444,24);
+insert into ergazetai values(33334466,24);
+insert into ergazetai values(33334655,24);
+insert into ergazetai values(33449988,24);
+insert into ergazetai values(34080099,24);
+
+
+insert into ergazetai values(44337466,28);
+insert into ergazetai values(33449988,28);
+insert into ergazetai values(34080099,28);
+
+insert into ergazetai values(44337466,32);
+
+
+insert into ergazetai values(99338877,30);
+insert into ergazetai values(33336499,30);
+insert into ergazetai values(88334466,30);
+insert into ergazetai values(66335544,30);
+insert into ergazetai values(24554566,30);
+insert into ergazetai values(34080099,30);
+
+
+insert into ergazetai values(99338877,34);
+insert into ergazetai values(33336499,34);
+insert into ergazetai values(24554566,34);
+insert into ergazetai values(34080099,34);
+
+insert into ergazetai values(99338877,40);
+insert into ergazetai values(33336499,40);
+insert into ergazetai values(24554566,40);
+insert into ergazetai values(34080099,40);
+
+insert into ergazetai values(99334477,33);
+insert into ergazetai values(22377566,33);
+insert into ergazetai values(44334466,33);
+insert into ergazetai values(33334877,33);
+insert into ergazetai values(33550099,33);
+insert into ergazetai values(33047988,33);
+
+
+insert into ergazetai values(99334477,35);
+insert into ergazetai values(33550099,35);
+insert into ergazetai values(33047988,35);
+
+insert into ergazetai values(99334477,36);
+insert into ergazetai values(22377566,36);
+
+
+insert into ergazetai values(44337466,37);
+insert into ergazetai values(33334477,37);
+insert into ergazetai values(33334488,37);
+insert into ergazetai values(55338477,37);
+insert into ergazetai values(33449988,37);
+insert into ergazetai values(68778544,37);
+
+
+insert into ergazetai values(44337466,39);
+insert into ergazetai values(33449988,39);
+insert into ergazetai values(68778544,39);
+
+
+
+
+
+
+insert into ergazetai values(12233455,41);
+insert into ergazetai values(44664466,41);
+insert into ergazetai values(77334455,41);
+insert into ergazetai values(55338477,41);
+insert into ergazetai values(12233555,41);
+insert into ergazetai values(77334884,41);
+
+insert into ergazetai values(33334455,46);
+insert into ergazetai values(12233555,46);
+insert into ergazetai values(77334884,46);
+
+insert into ergazetai values(33334455,56);
+insert into ergazetai values(44664466,56);
+
+
+insert into ergazetai values(22334566,42);
+insert into ergazetai values(44664466,42);
+insert into ergazetai values(33334488,42);
+insert into ergazetai values(33334877,42);
+insert into ergazetai values(33449988,42);
+insert into ergazetai values(20034566,42);
+
+
+insert into ergazetai values(22334566,44);
+insert into ergazetai values(44664466,44);
+insert into ergazetai values(33449988,44);
+insert into ergazetai values(20034566,44);
+
+
+insert into ergazetai values(22334566,51);
+insert into ergazetai values(44664466,51);
+
+insert into ergazetai values(22334566,60);
+
+
+insert into ergazetai values(33334544,43);
+insert into ergazetai values(22377566,43);
+insert into ergazetai values(44334466,43);
+insert into ergazetai values(33335488,43);
+insert into ergazetai values(77336655,43);
+
+
+insert into ergazetai values(33334544,49);
+insert into ergazetai values(44334466,49);
+insert into ergazetai values(12233445,49);
+
+
+
+
+insert into ergazetai values(66334444,45);
+insert into ergazetai values(33336499,45);
+insert into ergazetai values(33334466,45);
+insert into ergazetai values(33334655,45);
+insert into ergazetai values(55770277,45);
+insert into ergazetai values(68778544,45);
+
+
+insert into ergazetai values(66334444,50);
+insert into ergazetai values(68778544,50);
+insert into ergazetai values(55770277,50);
+
+insert into ergazetai values(66334444,55);
+insert into ergazetai values(68778544,55);
+insert into ergazetai values(55770277,55);
+
+insert into ergazetai values(66334444,59);
+
+insert into ergazetai values(55774477,47);
+insert into ergazetai values(44660166,47);
+insert into ergazetai values(44334466,47);
+insert into ergazetai values(33335488,47);
+insert into ergazetai values(77336655,47);
+insert into ergazetai values(68778544,47);
+
+
+insert into ergazetai values(55774477,48);
+insert into ergazetai values(68778544,48);
+insert into ergazetai values(33047988,48);
+insert into ergazetai values(77336655,48);
+
+insert into ergazetai values(55774477,52);
+
+insert into ergazetai values(66334444,53);
+insert into ergazetai values(77334884,53);
+insert into ergazetai values(33334488,53);
+insert into ergazetai values(33334877,53);
+insert into ergazetai values(12233400,53);
+insert into ergazetai values(68778544,53);
+
+
+insert into ergazetai values(66334444,54);
+insert into ergazetai values(77334884,54);
+insert into ergazetai values(33334488,54);
+insert into ergazetai values(12233400,54);
+insert into ergazetai values(68778544,54);
+
+insert into ergazetai values(66334444,57);
+insert into ergazetai values(77334884,57);
+
+insert into ergazetai values(66334444,58);
+insert into ergazetai values(77334884,58);
+
+
+insert into ergazetai values(99338877,61);
+insert into ergazetai values(22377566,61);
+insert into ergazetai values(88334466,61);
+insert into ergazetai values(66335544,61);
+insert into ergazetai values(33449988,61);
+insert into ergazetai values(24554566,61);
+
+
+insert into ergazetai values(99338877,64);
+insert into ergazetai values(22377566,64);
+insert into ergazetai values(88334466,64);
+
+insert into ergazetai values(99338877,68);
+insert into ergazetai values(22377566,68);
+
+insert into ergazetai values(99338877,72);
+
+
+insert into ergazetai values(33334766,62);
+insert into ergazetai values(44660166,62);
+insert into ergazetai values(24554566,62);
+insert into ergazetai values(34080099,62);
+
+insert into ergazetai values(33334766,65);
+insert into ergazetai values(44660166,65);
+
+insert into ergazetai values(33334766,71);
+insert into ergazetai values(44660166,71);
+
+insert into ergazetai values(33334766,80);
+
+
+insert into ergazetai values(12233499,63);
+insert into ergazetai values(33334477,63);
+insert into ergazetai values(44334466,63);
+insert into ergazetai values(33335488,63);
+insert into ergazetai values(33000009,63);
+insert into ergazetai values(69960166,63);
+
+insert into ergazetai values(12233499,66);
+insert into ergazetai values(33000009,66);
+insert into ergazetai values(69960166,66);
+
+insert into ergazetai values(12233499,70);
+insert into ergazetai values(33000009,70);
+insert into ergazetai values(69960166,70);
+
+
+
+insert into ergazetai values(82552766,67);
+insert into ergazetai values(77334884,67);
+insert into ergazetai values(88334466,67);
+insert into ergazetai values(33334877,67);
+insert into ergazetai values(20034566,67);
+insert into ergazetai values(68778544,67);
+
+insert into ergazetai values(82552766,73);
+insert into ergazetai values(77334884,73);
+insert into ergazetai values(88334466,73);
+
+
+insert into ergazetai values(88337766,69);
+insert into ergazetai values(44660166,69);
+insert into ergazetai values(33334488,69);
+insert into ergazetai values(33334655,69);
+insert into ergazetai values(55770277,69);
+
+
+insert into ergazetai values(88337766,74);
+insert into ergazetai values(44660166,74);
+insert into ergazetai values(55770277,74);
+
+insert into ergazetai values(88337766,78);
+insert into ergazetai values(44660166,78);
+
+insert into ergazetai values(44337466,75);
+insert into ergazetai values(33334444,75);
+insert into ergazetai values(33334466,75);
+insert into ergazetai values(33334655,75);
+insert into ergazetai values(33449988,75);
+insert into ergazetai values(34080099,75);
+
+
+insert into ergazetai values(44337466,76);
+insert into ergazetai values(33449988,76);
+insert into ergazetai values(34080099,76);
+
+insert into ergazetai values(44337466,77);
+insert into ergazetai values(33449988,77);
+insert into ergazetai values(34080099,77);
+
+insert into ergazetai values(44337466,78);
+
+
+
+
+
+
+
+insert into kanei values(33334455,'Jonas Rose Lyon2017');
+insert into kanei values(33334499,'Toll Brothers Paris2017');
+insert into kanei values(33554499,'Toll Brothers Paris2017');
+insert into kanei values(66334444,'Halli Charlie Vernon2017');
+insert into kanei values(99334477,'Milly Athens2017');
+insert into kanei values(55774477,'Nancy Dagnall Greece2017');
+insert into kanei values(33334544,'D maude Nice2017');
+insert into kanei values(33334766,'Big Lazlo Athens2017');
+
+
+insert into kanei values(44337466,'Bert D. UK2017');
+insert into kanei values(88337766,'Allan K. ft Nancy Dagnall Athens2017');
+insert into kanei values(55774477,'Allan K. ft Nancy Dagnall Athens2017');
+insert into kanei values(99338877,'Rosie in Valencia2017');
+insert into kanei values(22334566,'Benny Camillo Barcelona2017');
+insert into kanei values(82552766,'Jason Keats Rome2017');
+insert into kanei values(12233499,'Kacey Chaffe Milan2017');
+insert into kanei values(12233455,'Alison Lavigne Thessaloniki2017');
+
+
+insert into kanei values(33334455,'Jason Keats France2017');
+insert into kanei values(22334566,'Benny Camillo UK2017');
+insert into kanei values(33334766,'Big Lazlo Newcastle2017');
+insert into kanei values(66334444,'Halli Charlie London2017');
+insert into kanei values(22334566,'Benny Camillo France2017');
+insert into kanei values(99334477,'Milly UK2017');
+insert into kanei values(66334444,'Halli Charlie and Rosie Paris2017');
+insert into kanei values(99338877,'Halli Charlie and Rosie Paris2017');
+insert into kanei values(99334477,'Milly and Rosie UK2017');
+insert into kanei values(99338877,'Milly and Rosie UK2017');
+
+
+insert into kanei values(33334766,'Big Lazlo France2017');
+insert into kanei values(33334499,'Jonas Rose Paris2017');
+insert into kanei values(22334566,'Benny Camillo Athens2017');
+insert into kanei values(33334766,'Big Lazlo Madrid2017');
+insert into kanei values(33334455,'Jonas Rose Rome2017');
+insert into kanei values(33334544,'D maude Paris2017');
+insert into kanei values(12233499,'Kacey Chaffe Rome2017');
+insert into kanei values(33554499,'Toll Brothers ft Alison Lavigne Spain2017');
+insert into kanei values(33334499,'Toll Brothers ft Alison Lavigne Spain2017');
+insert into kanei values(12233455,'Toll Brothers ft Alison Lavigne Spain2017');
+
+
+
+
+insert into apoteleitai values(41,'Guilt Is Bliss');
+insert into apoteleitai values(46,'Guilt Is Bliss');
+insert into apoteleitai values(56,'Guilt Is Bliss');
+
+insert into apoteleitai values(23,'Cold Bible');
+insert into apoteleitai values(26,'Cold Bible');
+insert into apoteleitai values(38,'Cold Bible');
+
+insert into apoteleitai values(42,'Loose Man');
+insert into apoteleitai values(44,'Loose Man');
+insert into apoteleitai values(51,'Loose Man');
+insert into apoteleitai values(60,'Loose Man');
+
+insert into apoteleitai values(75,'Red Passion');
+insert into apoteleitai values(76,'Red Passion');
+insert into apoteleitai values(77,'Red Passion');
+insert into apoteleitai values(79,'Red Passion');
+insert into apoteleitai values(69,'Red Passion');
+insert into apoteleitai values(74,'Red Passion');
+insert into apoteleitai values(78,'Red Passion');
+insert into apoteleitai values(37,'Red Passion');
+insert into apoteleitai values(39,'Red Passion');
+insert into apoteleitai values(24,'Red Passion');
+insert into apoteleitai values(28,'Red Passion');
+insert into apoteleitai values(32,'Red Passion');
+
+insert into apoteleitai values(18,'Satin Faith');
+insert into apoteleitai values(62,'Satin Faith');
+insert into apoteleitai values(65,'Satin Faith');
+insert into apoteleitai values(71,'Satin Faith');
+insert into apoteleitai values(80,'Satin Faith');
+
+insert into apoteleitai values(43,'Trouble Wont Take Me Alive');
+insert into apoteleitai values(49,'Trouble Wont Take Me Alive');
+
+
+insert into apoteleitai values(10,'Blue Psycho');
+insert into apoteleitai values(14,'Blue Psycho');
+insert into apoteleitai values(16,'Blue Psycho');
+insert into apoteleitai values(45,'Blue Psycho');
+insert into apoteleitai values(50,'Blue Psycho');
+insert into apoteleitai values(55,'Blue Psycho');
+insert into apoteleitai values(59,'Blue Psycho');
+insert into apoteleitai values(4,'Blue Psycho');
+insert into apoteleitai values(8,'Blue Psycho');
+insert into apoteleitai values(53,'Blue Psycho');
+insert into apoteleitai values(54,'Blue Psycho');
+insert into apoteleitai values(57,'Blue Psycho');
+insert into apoteleitai values(58,'Blue Psycho');
+
+insert into apoteleitai values(22,'Perpetual Ability');
+insert into apoteleitai values(25,'Perpetual Ability');
+insert into apoteleitai values(29,'Perpetual Ability');
+insert into apoteleitai values(67,'Perpetual Ability');
+insert into apoteleitai values(73,'Perpetual Ability');
+
+insert into apoteleitai values(1,'Loyalty Is Fragile');
+insert into apoteleitai values(5,'Loyalty Is Fragile');
+
+insert into apoteleitai values(63,'Natural Sense');
+insert into apoteleitai values(66,'Natural Sense');
+insert into apoteleitai values(70,'Natural Sense');
+insert into apoteleitai values(21,'Natural Sense');
+insert into apoteleitai values(27,'Natural Sense');
+insert into apoteleitai values(31,'Natural Sense');
+
+insert into apoteleitai values(3,'Act Of Faith');
+insert into apoteleitai values(6,'Act Of Faith');
+insert into apoteleitai values(19,'Act Of Faith');
+insert into apoteleitai values(33,'Act Of Faith');
+insert into apoteleitai values(35,'Act Of Faith');
+insert into apoteleitai values(36,'Act Of Faith');
+
+
+insert into apoteleitai values(47,'Reckless Catalyst');
+insert into apoteleitai values(48,'Reckless Catalyst');
+insert into apoteleitai values(52,'Reckless Catalyst');
+insert into apoteleitai values(7,'Reckless Catalyst');
+insert into apoteleitai values(13,'Reckless Catalyst');
+insert into apoteleitai values(20,'Reckless Catalyst');
+
+insert into apoteleitai values(61,'Eternal Safety');
+insert into apoteleitai values(64,'Eternal Safety');
+insert into apoteleitai values(68,'Eternal Safety');
+insert into apoteleitai values(72,'Eternal Safety');
+insert into apoteleitai values(11,'Eternal Safety');
+insert into apoteleitai values(15,'Eternal Safety');
+insert into apoteleitai values(17,'Eternal Safety');
+insert into apoteleitai values(30,'Eternal Safety');
+insert into apoteleitai values(34,'Eternal Safety');
+insert into apoteleitai values(40,'Eternal Safety');
+
+insert into apoteleitai values(2,'Traces Of War');
+insert into apoteleitai values(9,'Traces Of War');
+insert into apoteleitai values(12,'Traces Of War');
+
+insert into apoteleitai values(42,'Best of 2017');
+insert into apoteleitai values(44,'Best of 2017');
+insert into apoteleitai values(51,'Best of 2017');
+insert into apoteleitai values(60,'Best of 2017');
+insert into apoteleitai values(45,'Best of 2017');
+insert into apoteleitai values(50,'Best of 2017');
+insert into apoteleitai values(55,'Best of 2017');
+insert into apoteleitai values(59,'Best of 2017');
+insert into apoteleitai values(18,'Best of 2017');
+insert into apoteleitai values(3,'Best of 2017');
+insert into apoteleitai values(6,'Best of 2017');
+insert into apoteleitai values(19,'Best of 2017');
+insert into apoteleitai values(2,'Best of 2017');
+insert into apoteleitai values(9,'Best of 2017');
+insert into apoteleitai values(12,'Best of 2017');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

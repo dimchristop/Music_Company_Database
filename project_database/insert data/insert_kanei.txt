@@ -1,0 +1,42 @@
+insert into kanei values(33334455,'Jonas Rose Lyon2017');
+insert into kanei values(33334499,'Toll Brothers Paris2017');
+insert into kanei values(33554499,'Toll Brothers Paris2017');
+insert into kanei values(66334444,'Halli Charlie Vernon2017');
+insert into kanei values(99334477,'Milly Athens2017');
+insert into kanei values(55774477,'Nancy Dagnall Greece2017');
+insert into kanei values(33334544,'D maude Nice2017');
+insert into kanei values(33334766,'Big Lazlo Athens2017');
+
+
+insert into kanei values(44337466,'Bert D. UK2017');
+insert into kanei values(88337766,'Allan K. ft Nancy Dagnall Athens2017');
+insert into kanei values(55774477,'Allan K. ft Nancy Dagnall Athens2017');
+insert into kanei values(99338877,'Rosie in Valencia2017');
+insert into kanei values(22334566,'Benny Camillo Barcelona2017');
+insert into kanei values(82552766,'Jason Keats Rome2017');
+insert into kanei values(12233499,'Kacey Chaffe Milan2017');
+insert into kanei values(12233455,'Alison Lavigne Thessaloniki2017');
+
+
+insert into kanei values(33334455,'Jason Keats France2017');
+insert into kanei values(22334566,'Benny Camillo UK2017');
+insert into kanei values(33334766,'Big Lazlo Newcastle2017');
+insert into kanei values(66334444,'Halli Charlie London2017');
+insert into kanei values(22334566,'Benny Camillo France2017');
+insert into kanei values(99334477,'Milly UK2017');
+insert into kanei values(66334444,'Halli Charlie and Rosie Paris2017');
+insert into kanei values(99338877,'Halli Charlie and Rosie Paris2017');
+insert into kanei values(99334477,'Milly and Rosie UK2017');
+insert into kanei values(99338877,'Milly and Rosie UK2017');
+
+
+insert into kanei values(33334766,'Big Lazlo France2017');
+insert into kanei values(33334499,'Jonas Rose Paris2017');
+insert into kanei values(22334566,'Benny Camillo Athens2017');
+insert into kanei values(33334766,'Big Lazlo Madrid2017');
+insert into kanei values(33334455,'Jonas Rose Rome2017');
+insert into kanei values(33334544,'D maude Paris2017');
+insert into kanei values(12233499,'Kacey Chaffe Rome2017');
+insert into kanei values(33554499,'Toll Brothers ft Alison Lavigne Spain2017');
+insert into kanei values(33334499,'Toll Brothers ft Alison Lavigne Spain2017');
+insert into kanei values(12233455,'Toll Brothers ft Alison Lavigne Spain2017');

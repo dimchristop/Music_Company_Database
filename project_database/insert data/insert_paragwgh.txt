@@ -1,0 +1,27 @@
+insert into paragwgh values('Guilt Is Bliss','Alison Lavigne','Guilt Is Bliss',1,2017,100000);
+insert into paragwgh values('Cold Bible','Allan K.','Cold Bible',1,2017,60000);
+insert into paragwgh values('Loose Man','Benny Camillo','Loose Man',1,2017,300000);
+insert into paragwgh values('Red Passion','Bert D.','Red Passion,Drums Of Peace,Island Of Hidden Hate,Deafening Town',4,2017,90000);
+insert into paragwgh values('Satin Faith','Big Lazlo','Satin Faith, Solidified Implosion',2,2017,250000);
+insert into paragwgh values('Trouble Wont Take Me Alive','D maude','Trouble Wont Take Me Alive',1,2017,60000);
+insert into paragwgh values('Blue Psycho','Halli Charlie','Quality Unlocked,Blue Psycho,Leisure On The Floor,Son Of A Highway',4,2017,200000);
+
+insert into paragwgh values('Perpetual Ability','Jason Keats','Perpetual Ability,Waiting For Forgiveness',2,2017,100000);
+insert into paragwgh values('Loyalty Is Fragile','Jonas Rose','Loyalty Is Fragile',1,2017,200000);
+insert into paragwgh values('Natural Sense','Kacey Chaffe','Natural Sense,Buying Ignorance',2,2017,300000);
+insert into paragwgh values('Act Of Faith','Milly','Act Of Faith,Dont Touch The Alley',2,2017,190000);
+insert into paragwgh values('Reckless Catalyst','Nancy Dagnall','Reckless Catalyst,Contentment Happens',2,2017,250000);
+insert into paragwgh values('Eternal Safety','Rosie','Eternal Safety,Abandoned Beast,Enemies Of Annoyance',3,2017,60000);
+insert into paragwgh values('Traces Of War','Toll Brothers','Traces Of War',1,2017,270000);
+
+
+
+insert into paragwgh values('Best of 2017','famous superstars from our label','Loose Man,Blue Psycho,Satin Faith,Act Of Faith,Traces Of War',5,2017,1500000);
+
+
+
+
+
+
+
+

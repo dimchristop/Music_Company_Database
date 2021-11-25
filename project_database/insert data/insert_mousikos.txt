@@ -1,0 +1,29 @@
+insert into Mousikos values(33334466,'Punk,Rock,Metal','composer');
+insert into Mousikos values(33334488,'Pop,Rock','composer');
+insert into Mousikos values(44334466,'Jazz,Latin','composer,piano,saxophone');
+insert into Mousikos values(77334455,'R&B,Rap','composer');
+insert into Mousikos values(88334466,'Hip-Hop','composer');
+
+insert into Mousikos values(33334655,'Punk,Rock,Metal','songwriter,piano');
+insert into Mousikos values(33334877,'Pop,Rock','songwriter');
+insert into Mousikos values(33335488,'Jazz,Latin','songwriter,Lyra');
+insert into Mousikos values(55338477,'R&B,Rap','songwriter');
+insert into Mousikos values(66335544,'Hip-Hop','songwriter');
+
+insert into Mousikos values(77336655,'Punk,Jazz','bass,trombone');
+insert into Mousikos values(33449988,'Pop,Rock','bass');
+insert into Mousikos values(33550099,'Jazz,Latin,Pop','bass,Lyra');
+insert into Mousikos values(55770277,'Punk,Rock,Metal','guitar');
+insert into Mousikos values(12233445,'Punk,Alternative','guitar,trombone');
+
+insert into Mousikos values(12233400,'Punk,Rock,Metal','guitar');
+insert into Mousikos values(20034566,'Pop,Rock','guitar');
+insert into Mousikos values(33000009,'Jazz,Latin,Classic','guitar,accordion');
+insert into Mousikos values(24554566,'R&B,Rap,Hip-Hop','guitar,drums');
+insert into Mousikos values(68778544,'Punk,Rock,Metal','drums');
+
+insert into Mousikos values(77334884,'Rap,Hip-Hop,Rock','drums');
+insert into Mousikos values(12233555,'Classic','violin');
+insert into Mousikos values(33047988,'Pop,Alternative,Jazz,Latin','violin,accordion');
+insert into Mousikos values(34080099,'Pop,Alternative','piano');
+insert into Mousikos values(69960166,'Jazz,Latin','saxophone,flute');
